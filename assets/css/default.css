@@ -1,0 +1,9 @@
+/* ======================== */
+/* ===== Fabián Muñoz ===== */
+table .btn-delete {
+    font-size: 90%;
+}
+
+table td.delete {
+    padding: 6px 0;
+}
